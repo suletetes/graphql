@@ -134,7 +134,6 @@ The repository is organized sequentially, with each section building upon the pr
 
 ## Additional Resources
 
-- Check each section's README for specific instructions
 - Review package.json files for dependencies and scripts
 - Examine the schema.graphql files for GraphQL type definitions
 - Study resolvers.js for business logic implementation
